@@ -86,7 +86,7 @@ Click On The Link To Donate ME...
 
 2. Get Creds Json (SERVER 1)
     <br>
-<a href='https://xlicon-v3-web.onrender.com' target="_blank"><img alt='SESSION ID FOR MCROSS MD' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=black&labelColor=white&color=black'/></a>
+<a href='https://xlicon-v3-web.onrender.com' target="_blank"><img alt='SESSION MD' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 2. Get Creds Json (SERVER 2)
     <br>
