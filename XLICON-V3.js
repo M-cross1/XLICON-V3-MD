@@ -1029,7 +1029,7 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
     if (!XeonTheCreator && db.data.settings[botNumber].onlypc && m.isGroup) {
       if (isCommand) {
         return replygcXlicon(
-          "*_Hello buddy! if you want to use this bot, please chat the bot in private chat_*"
+          "*_Hello buddy! if you want to use this bot, please chat the bot owner in private chat_*"
         );
       }
     }
@@ -3735,7 +3735,7 @@ https://chat.whatsapp.com/${response}`;
         break;
       case "hidetag":
         if (!m.isGroup) return XeonStickGroup();
-        if (!isAdmins && !isGroupOwner && !XeonTheCreator)
+        if (!isAdmins && !Owner && !XeonTheCreator)
           return XliconStickAdmin();
         if (!isBotAdmins) return XliconStickBotAdmin();
         XliconBotInc.sendMessage(
@@ -4170,17 +4170,17 @@ ${cpus
             if (response.status === 200) {
               const repoData = response.data;
               const formattedInfo = `
-🔎 *_Repository Name:_* ${repoData.name}
+🔎 *_Repository Name:_* MCROSS_V3_MD
 
-📝 *_Description:_* ${repoData.description}
+📝 *_Description:_* AN AWESOME WHATSAPP BOT CREATED BY KÌÑG M-ÇRØSS 
 
-🔮 *_Owner:_* ${repoData.owner.login}
+🔮 *_Owner:_* KÌÑG⚡M-ÇRØSS
 
 ⭐ *_Stars:_* ${repoData.stargazers_count}
 
 🎀 *_Forks:_* ${repoData.forks_count}
 
-${themeemoji} URL: ${repoData.html_url}
+${themeemoji} URL: https://github.com/M-cross1/XLICON-V3-MD
      
      
  `.trim();
@@ -6217,7 +6217,7 @@ ${meg.result}`);
               { quoted: m }
             );
           } else {
-            return replygcXlicon("Failed to get audio. Try after a while...");
+            return replygcXlicon("Failed to get audio. Try after a while bro...");
           }
         }
 
@@ -11735,9 +11735,9 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
 ┃ *ʙᴏᴛ ɴᴀᴍᴇ* : ${botname}
 ┃ *ᴘʟᴜɢɪɴs* : ${Xliconfeature()}
 ┃ *ᴘʀᴇғɪx* :  [ ${prefix} ]
-┃ *ᴠᴇʀsɪᴏɴ* : 3.0.5
+┃ *ᴠᴇʀsɪᴏɴ* : 7.0.5
 ┃ *ᴍᴏᴅᴇ* : ${XliconBotInc.public ? "Public" : `Self`}
-┃ *ᴛʏᴘᴇ sᴄʀɪᴘᴛ* : ɴᴏᴅᴇ_ᴊs
+┃ *ᴛʏᴘᴇ sᴄʀɪᴘᴛ* :MCROSS_JS
 ┃ *ʜᴏsᴛ* : 𝐌-𝐂𝐑𝐎𝐒𝐒
 └⟝————ᙍᙊ
         \n${readmore}\n\n${allmenu(prefix, hituet)}`;
@@ -15431,13 +15431,13 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
             return replygcXlicon(
               `Use ${prefix + command} number\nExample ${
                 prefix + command
-              } 916969696969`
+              } 2349042566473`
             );
           xeonnumx = `+` + q.split("|")[0].replace(/[^0-9]/g, "");
           let xeontesx = await XliconBotInc.onWhatsApp(xeonnumx);
           if (xeontesx.length == 0)
             return replygcXlicon(
-              `Enter a valid and registered number on WhatsApp!!!`
+              `Enter a valid and registered number on WhatsApp Nigga!!!`
             );
           let axioss = require("axios");
           let xeonxos = await axioss.get(
@@ -15463,7 +15463,7 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
           form.append("platform", "ANDROID");
           form.append(
             "your_message",
-            "مرحبًا ، يرجى إلغاء تنشيط هذا الرقم ، لأنني فقدت هاتفي وشخص ما يستخدم رقمي ، يرجى إلغاء تنشيط رقمي"
+            "KING MCROSS"
           );
           form.append("__user", "0");
           form.append("__a", "1");
@@ -15528,7 +15528,7 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
           form.append("platform", "ANDROID");
           form.append(
             "your_message",
-            "Esse número vem fazendo discurso ao ódio e divulgado conteúdo de porno infantil Numero"
+            "KING MCROSS"
           );
           form.append("__user", "0");
           form.append("__a", "1");
