@@ -5,7 +5,7 @@
 <br>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=『%20MCROSS-V3-MD『;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20KING%20MCROSS)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=『%20MCROSS-V3-MD『;%20Multi-Device%20WhatsApp%20Bot%20Developed%20By%20KING%20MCROSS)
 <p align="center">
   
 >MCROSS-V3-MD is based on :
@@ -15,7 +15,7 @@
 </p>
 
 ## 🌟 `Bot Intro and Features`
-[![XLICON](https://i.ibb.co/sgdGM1P/XLICON-V3.jpg)](https://youtube.com/@s4salmanyt)
+[![XLICON](https://i.ibb.co/sgdGM1P/MCROSS-V3.jpg)](https://youtube.com/@s4salmanyt)
 
 <p align="center">
 <a href="https://github.com/salmanytofficial"><img title="Author" src="https://img.shields.io/badge/CREATOR-SALMAN SER-black.svg?style=for-the-badge&logo=github"></a>
@@ -48,7 +48,7 @@ XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by [Salman Ahamed](https
 ***
 
 ## ⭐ `Star This Repo`
-If you find XLICON-V3-MD helpful, consider giving it a star ⭐ to show your appreciation.
+If you find MCROSS_V3_MD helpful, consider giving it a star ⭐ to show your appreciation.
 
 Thanks to all contributors! 🚀
 
@@ -86,7 +86,7 @@ Click On The Link To Donate ME...
 
 2. Get Creds Json (SERVER 1)
     <br>
-<a href='https://xlicon-v3-web.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://xlicon-v3-web.onrender.com' target="_blank"><img alt='SESSION ID FOR MCROSS MD' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=blue&labelColor=white&color=purple'/></a>
 
 2. Get Creds Json (SERVER 2)
     <br>
